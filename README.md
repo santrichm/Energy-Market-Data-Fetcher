@@ -31,7 +31,7 @@ This project fetches market data from the [hupx.hu](https://hupx.hu/en/market-da
 To run the script, execute the following command:
 
 
-    python market_data_fetcher.py
+    python HUPX.py
 
 This will fetch the market data for the previous day and today, saving the results in files named 
       
