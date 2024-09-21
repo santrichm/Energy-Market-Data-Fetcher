@@ -18,7 +18,7 @@ This project fetches market data from the [hupx.hu](https://hupx.hu/en/market-da
 ## Installation
 1. Clone this repository:
 
-       git clone https://github.com/yourusername/Energy-Market-Data-Fetcher.git
+       git clone https://github.com/santrichm/Energy-Market-Data-Fetcher.git
        cd Energy-Market-Data-Fetcher
    
 3. Install the required packages:
